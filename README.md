@@ -22,7 +22,7 @@ Scanner for user input
 
 📂 Project Structure
 Library-Management-System/
-│
+
 ├── Book.java            
 ├── Member.java           
 ├── Library.java           
